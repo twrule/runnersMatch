@@ -1,6 +1,6 @@
 # RunnersMatch
 
-To run the site you must first install a few things.
+To run the site you must first install a few things after cloning or downloading this repository.
 First navigate into the 'src' folder and run the following commands to install necessary helper-files: 
 
 npm install 
