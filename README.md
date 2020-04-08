@@ -1,6 +1,7 @@
 # RunnersMatch
 
-To run the site into the 'src' folder and run the following commands to install necessary helper-files: 
+To run the site you must first install a few things.
+First navigate into the 'src' folder and run the following commands to install necessary helper-files: 
 
 npm install 
 
@@ -12,7 +13,12 @@ npm install recompose
 
 -------------------------------------------------------------------------------
 
-To run the site exit the src folder (so you're in runners-match-revised) and then type "npm start" in the command line to get ther server running.  Your default browser should automatically open up and load the site within a couple minutes and if it does not simply type "localhost:3000" into the URL of the browser of your choice to access the site
+To run the site exit the src folder and then run the following in the command line to get the server running:
+ npm start
+
+Your default browser should automatically open up and load the site and if it seems to take to long, type "localhost:3000" into your browser's URL.
+
+Once you are finished and want to close the server press "ctrl + 'c'" on your command line. 
 
 The plan for this project is to create a web application that is able to gather data from users about their running experience and match them up with potential training partners.
 
