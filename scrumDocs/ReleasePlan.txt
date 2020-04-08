@@ -1,0 +1,47 @@
+RunnersMatch by habtInc.
+Tyler Rule, Harmen Kang, Austin King, Brandon Jacobson
+Releasing RunnersMatch 1.0 on October 20, 2019
+Revision Number 1 - October 8, 2019
+
+High Level Goals: The initial goal is to create a webpage that serves as a por-
+  tal for the user. This would be implemented through a database that stores a-
+  ll the user's information. Some of this information will be used to create a 
+  public profile for the user. Based on these criteria, we will develop a basic 
+  matchmaking system. This will be supported by a messaging system to further 
+  stimulate social interaction.
+
+  In the later stages of the project, we hope to implement a feature that inte-
+  grates Strava into our service. We would also have a place where users can r-
+  eview their training partners. There would be a location service that would 
+  have places potential meetups could occur.
+
+
+User stories:
+Sprint 1:
+	1: As a user I want to be able to make an account for RunnersMatch so that
+	  I can have a presence on the website that I can return to and access reg-
+	  ularly
+	2:As a user I want to be able to update my profile with my running inform-
+	  ation such as weekly mileage, average running pace, trail versus road ru-
+	  nning preference, and ideal qualities in a training partner
+Sprint 2:
+	1: As a user I want to be able to search through other profiles on Runners-
+	  Match and show my interest in training with profiles I find interest in
+	2: As a user I want RunnersMatch to show me possible training partners wit-
+	  h similar goals
+Sprint 3:
+	1: As a user I want to be able to import my fitness data from Strava so th-
+	  at I do not need to manually enter all of my statistics and data
+	2: As a user I want to be able to post public events where I can meet othe-
+	  r runners in large groups for runs and training sessions.
+Sprint 4
+	1: As a user I want to be able to communicate and message runners that I am
+	  interested in to set up training sessions and meet ups
+	2: As a user I want to be able to leave feedback and a review of my experi-
+	ence of training with other users on the platform so that users can build a
+	  reputation on the platform as good or bad training partners.
+
+Product Backlog: In the future we would like to release a mobile application to
+ make the service easier for consumers, we would like to incorporate advertise-
+ ments with running brands/services to monetize the service, and add a premium 
+ feature to create more revenue (qualities of premium are yet to be figured out).

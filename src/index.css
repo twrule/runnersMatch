@@ -1,0 +1,232 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-width: 825px;
+
+  background: url("landingBackground.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1{
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+.navigationCSS{
+	width: auto;
+	background-color: #48C9B0;
+	margin-top: 0px;
+	padding-top: 20px;
+	text-align: right;
+	padding-right: 35px;
+}
+
+.navigationCSS li{
+	list-style: none;
+	text-decoration: none;
+	color: #000;
+	display: inline;
+	width: 30px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 40px;
+}
+
+.navigationCSS a{
+	list-style: none;
+	text-decoration: none;
+	color: #000;
+}
+
+.navigationCSS a:hover{
+	list-style: none;
+	text-decoration-style: bold;
+	text-decoration: underline;
+	color: #000;
+	font-style: italic;
+}
+
+.superbut {
+	background-color: #A3E4D7;
+	border-bottom: 1px dotted #dcdcdc;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	padding: 5px;
+	width: 80px;
+	margin-bottom: 20px;
+}
+
+.superbut:hover{
+	color: black;
+	background-color: #D1F2EB;
+	font-style:italic;
+}
+
+.entInfo{
+	text-align: center;
+	display: block;
+}
+
+.centBut{
+	text-align: center;
+	display: block;
+	margin-top: 15px;
+	margin-bottom: 12px;
+}
+
+input{
+	border-bottom: 1px dotted #dcdcdc;
+	border-top: none;
+	font-size: 17px;
+	border-right: none;
+	border-left: none;
+	padding: 5px;
+	width: 280px;
+	height:20px;
+	margin-bottom: 20px;
+}
+
+.signInParams{
+	margin-top: 40px;
+}
+
+.edtSgnUpLnk{
+	margin-top: 25px;
+	text-align: center;
+}
+
+.edtSgnUpLnk a{
+	text-decoration: none;
+	color: black;
+	background: #76D7C4;
+}
+.edtSgnUpLnk a:hover{
+	font-size: 14.5px;
+	text-transform: uppercase;
+	text-decoration: underline;
+	color: black;
+}
+
+.edtSgnUpLnk:visited{
+	margin-top: 25px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.landingData{
+	padding-top: 50px;
+	font-size: 50px;
+	padding-bottom: 50px;
+}
+
+.landingBlur{
+	margin:0px auto 0px auto;
+	background: rgba(0, 0, 0, 0.1);
+	padding: 5px 15px 20px 15px;
+	border-radius: 20px;
+	width: 90%;
+}
+
+
+.landingParagraph{
+	text-indent: 50px;
+	font-size: 20px;
+	width:750px;
+	margin:40px auto 22px auto;
+}
+
+.editAccountEntry{
+	width: 90px;
+	margin-left: 20px;
+}
+
+.dataEntryBackground{
+	margin-top: 90px;
+	padding: 5px 15px 20px 15px;
+	border-radius: 15px;
+}
+
+.actualData{
+	margin: 0px auto 0px auto;
+	padding-top: 8px;
+	width: 85%;
+	background: rgba(0, 0, 0, 0.1);
+	text-align: center;
+	border-radius: 15px;
+}
+
+.currentInfo{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 70px;
+	background: rgba(0, 0, 0, 0.2);
+	text-align: left;
+	font-size: 22px;
+	border-radius: 15px;
+	width: 90%;
+	margin: 0px auto 0px auto;
+}
+
+.userListerBackground{
+	background: rgba(0, 0, 0, 0.1);
+	border-radius: 15px;
+	width: 80%;
+	margin: 20px auto 60px auto;
+}
+
+.userLister{
+	list-style: none;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 140px;
+	margin-left: 100px;
+}
+
+.zipCodeBox{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.invisBut{
+	visibility: hidden;
+}
+
+.blurBox{
+	margin: 40px auto 40px auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.1);
+	width: 500px;
+	border-radius: 15px;
+}
+
+.zcb{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #57595D;
+  	border-radius: 10px;
+}
+
+
+
+
+
+
+
+

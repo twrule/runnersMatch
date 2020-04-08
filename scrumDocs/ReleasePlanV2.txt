@@ -1,0 +1,44 @@
+RunnersMatch by habtInc.
+Tyler Rule, Harmen Kang, Austin King, Brandon Jacobson
+Releasing RunnersMatch 1.0 on Dec 8,2019
+Revision Number 2 - Nov 20, 2019
+
+High Level Goals: The initial goal is to create a webpage that serves as a portal for the user. 
+   This would be implemented through a database that stores all the user's information. 
+   Some of this information will be used to create a public profile for the user. 
+   Based on these criteria, we will develop a basic matchmaking system.   
+   This will be supported by a messaging system to further stimulate social interaction.
+   
+   In the later stages of the project, we hope to implement a feature that integrates the Google Calendar API into our app. 
+   Users will be able to post events to our website based on zip code. 
+   Users within that same zip code will be able to sign up for said events and get google calendar notifications as a reminder. 
+   This will add a layer of social groups on top of the one on one training promoted by our app initially.
+User stories:
+
+   Sprint 1:
+      1: As a user I want to be able to make an account for RunnersMatch so that 
+         I can have a presence on the website that I can return to and access regularly
+      2: As a user I want to be able to update my profile with my running information such as weekly mileage, 
+         average running pace, trail versus road running preference, and ideal qualities in a training partner
+
+   
+   Sprint 2:
+      1: As a user I want to be able to search through other profiles on RunnersMatch and show my interest in training with profiles 
+         I find interest in
+      2: As a user I want RunnersMatch to show me possible training partners with similar goals
+
+   Sprint 3: 
+      1: As a user I want to be able to post public events where I can meet other runners in large groups for runs and training sessions.
+      2: As a user I want to be able to sign up to post group events for people in my zip code so I can run with others
+
+   Sprint 4: 
+      1: As a user I want to be able to communicate and message runners that I am interested in to set up training sessions and meet ups
+      2: As a user I want to be able to leave feedback and a review of my experience of training with other users on 
+         the platform so that users can build a reputation on the platform as good or bad training partners.
+      3: As a user I want to get a google calendar notification for events that I signed up for so I can easily remember events.
+      4: As a user I want to be able to upload a photo to my profile so other users can 
+         get a better feel for who I am before meeting me in person.
+
+Product Backlog: In the future we would like to release a mobile application to make the service easier for consumers, 
+   we would like to incorporate advertisements with running brands/services to monetize the service, 
+   add a premium feature to create more revenue (qualities of premium are yet to be figured out).
