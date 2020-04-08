@@ -1,6 +1,16 @@
 # RunnersMatch
 
-To run the site, cd into runners-match-revised and then cd into the src folder and install the following by running: npm install npm install react-router-dom npm install firebase npm install recompose
+To run the site into the 'src' folder and run the following commands to install necessary helper-files: 
+
+npm install 
+
+npm install react-router-dom 
+
+npm install firebase 
+
+npm install recompose
+
+-------------------------------------------------------------------------------
 
 To run the site exit the src folder (so you're in runners-match-revised) and then type "npm start" in the command line to get ther server running.  Your default browser should automatically open up and load the site within a couple minutes and if it does not simply type "localhost:3000" into the URL of the browser of your choice to access the site
 
